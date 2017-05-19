@@ -13,6 +13,9 @@ public class BasicCalc
         {
     	System.out.println("********* select option********");
     	// just it is template for student demonstration.
+    	
+    	/* hello .... iSTAR */
+    	
 	}
 	
     public void userInputs()
@@ -24,7 +27,7 @@ public class BasicCalc
     public void performOperation()
 {
     	
-        }
+}
        
     }
     
