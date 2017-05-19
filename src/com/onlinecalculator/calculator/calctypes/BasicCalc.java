@@ -11,7 +11,8 @@ public class BasicCalc
 	
 	public int menu()
         {
-    	
+    	System.out.println("********* select option********");
+    	// just it is template for student demonstration.
 	}
 	
     public void userInputs()
