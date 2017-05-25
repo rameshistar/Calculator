@@ -6,7 +6,7 @@ public class BasicCalc
 	int a,b,c,ch,res;
 	
 	public BasicCalc()
-        {
+        {//;l;
 		a=0;
 		b=0;
 		c=0;
